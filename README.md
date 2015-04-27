@@ -26,4 +26,4 @@ for more configs and options look the first lines of this script!
 
 
 ## Contact
-* email: nibiru[at]safe-mail[dot]net
+* email: lucid.trip[at]mail[dot]ru
